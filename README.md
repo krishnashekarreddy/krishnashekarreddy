@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @krishnashekarreddy
-- 👀 I’m interested in Automation testing
-- 🌱 I’m currently learning Mobile and Security testing
+- 👀 I’m interested in new Automation technologies
 - 💞️ I’m looking to collaborate on Testing technologies
 - 📫 How to reach me krishnashekarreddy@gmail.com
 
